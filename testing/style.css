@@ -1,0 +1,104 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+form{
+    padding-top: 250px;
+    margin-bottom: 400px;
+}
+#upper{
+    
+    background-image: url('images/wedding1.jpg'); 
+   background-attachment: fixed;
+   background-size: cover;
+}
+/* topBar */
+.topBar{
+    padding-right: 50px;
+}
+.text-white .nav-link
+{
+    color: black;
+}
+    
+/* nav-bar */
+
+.navbar-brand{
+    font-family: "Ubuntu" ;
+    font-size: 3.5rem;
+    font-weight: bold;
+    }
+.nav-item{
+    padding: 0px 10px;
+    }
+
+
+/* features */
+
+
+#features{
+    padding: 2% 14%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+    }
+    
+    .feature-box{
+        text-align: center;
+        padding: 5%;
+    }
+    .icon{
+        color: #590c63;
+        margin-bottom: 10px;
+    }
+    .icon:hover{
+        color:#b353da;
+    }
+
+
+/* SLIDER */
+.slide
+{
+    background-color: #f34f6d
+}
+
+.card
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.border-card
+{
+    border-radius: 15px;
+}
+.section-1 .heading-1
+{
+    margin-top: 8%;
+    color: red;
+}
+.section-1 .heading-2
+{
+    margin-bottom: 5%;
+    font-size: 30px;
+}
+.section-1 .para-1
+{
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+
+}
+.section-1 .card-text, .para-1{
+    color: rgba(0, 0, 0, 0.59);
+}
+.section-1
+{
+    margin-bottom: 6%;
+}
+© 2021 GitHub, Inc.
